@@ -125,8 +125,9 @@ void loop()
 			
 			
 			
-			
-			Average error = sum/ number of readings 
+##ERROR			
+Average error = sum/ number of readings 
+Average error = (0.07+0.12+0.08+0.07+0.08)/5 = 0.84 
  
 
 
