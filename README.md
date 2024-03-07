@@ -137,6 +137,7 @@ void loop()
 
 
 ### RESULTS
+Arduino uno is interfaced with Ultrasonic sensor and output values are indicated on a graph.
 
 
 
